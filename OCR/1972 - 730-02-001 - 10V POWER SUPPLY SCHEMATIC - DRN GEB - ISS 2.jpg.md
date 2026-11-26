@@ -35,7 +35,7 @@ Wiki page: [M730](../../../../PAGES/M730.md)
 - **Words (OCR):** 26 in 22 lines: NOTE 5 · INII83 · OThERwisc Specified, · Toleranc · VALUE KR E · ALL Resistors · 05 VAC · 20 AMPs · ARE · HM · VALUE · MIcRoFARADS
 - **Wiring (first pass):** 37 connected wire groups from 266 runs; labelled ends: 159 mm → 4400; 85 mm → 7 U; 44 mm → INII83; 38 mm → pOFR; 37 mm → INII83
 
-Every curve, box, word and wire group: [1972 - 730-02-001 - 10V POWER SUPPLY SCHEMATIC - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1972%20-%20730-02-001%20-%2010V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%202%20(traced).json) (the CAD file: `1972 - 730-02-001 - 10V POWER SUPPLY SCHEMATIC - DRN GEB - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1972 - 730-02-001 - 10V POWER SUPPLY SCHEMATIC - DRN GEB - ISS 2 (traced).json](../SCHEMATICS/1972%20-%20730-02-001%20-%2010V%20POWER%20SUPPLY%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1972 - 730-02-001 - 10V POWER SUPPLY SCHEMATIC - DRN GEB - ISS 2 (traced).dxf`).
 
 ## Full text
 
