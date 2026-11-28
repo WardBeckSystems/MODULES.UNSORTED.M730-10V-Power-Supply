@@ -1,5 +1,5 @@
 # 1972 - 730-02-001 - 10V POWER SUPPLY SCHEMATIC - DRN GEB - ISS 2.jpg
-Wiki page: [M730](../../../../PAGES/M730.md)
+Wiki page: [M730](../)
 
 
 - **Year:** 1972 (title block date)

@@ -1,6 +1,6 @@
 # M730 10V Power Supply · Communication
 
-Ward-Beck Systems M730, 1972|5. Wiki page: [M730 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M730.html)
+Ward-Beck Systems M730, 1972|5. Wiki page: [M730 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M730-10V-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
